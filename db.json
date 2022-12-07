@@ -1,3 +1,14 @@
 {
-  "perfil": []
+  "perfil": [
+    {
+      "nombre": "Lucas",
+      "email": "lucasbiagetti@gmail.com",
+      "id": "974e95c8-734c-4620-b1f6-b1ba9024a626"
+    },
+    {
+      "nombre": "Lucas",
+      "email": "aztlan.coatl@gmail.com",
+      "id": "bcddd39c-3f49-430a-ae22-4071d8cf9b44"
+    }
+  ]
 }

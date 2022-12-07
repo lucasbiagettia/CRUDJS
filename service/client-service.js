@@ -21,5 +21,5 @@ const eliminarCliente = (id) => {
 export const clientServices = {
   listaClientes,
   crearCliente,
-  eliminarCliente
+  eliminarCliente 
 }
